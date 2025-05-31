@@ -107,6 +107,6 @@ Thanks to all contributors and learners using this project to grow in C programm
 ## 🔗 Connect with Me
 
 - GitHub: [TheSrajanJain](https://github.com/TheSrajanJain)
-- LinkedIn: [Srajan Jain](https://www.linkedin.com/in/srajan-jain/)
+- Instagram: [The_SrajanJain](https://www.instagram.com/in/The_SrajanJain/)
 
 > ⭐ If you find this project helpful, give it a star and share it with others!
